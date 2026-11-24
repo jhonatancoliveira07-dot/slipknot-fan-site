@@ -69,6 +69,11 @@ header {
 
 footer {
      background-color: rgb(27, 27, 27);
+      bottom: 0; 
+position: absolute;
+bottom: 0;
+left: 0;
+     
     
 }
 
@@ -110,7 +115,7 @@ th {
   font-style: normal;
 }
 td {
-    color: rgb(189, 0, 0);
+    color: rgb(168, 1, 1);
      font-family: "New Rocker", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -127,3 +132,8 @@ label {
   padding: 1%;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
