@@ -2,12 +2,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
 
-body {
+header {
     background-color: rgb(17, 17, 17);
+    background-image: linear-gradient(black,red)
+    
+    ;
+    
+
     
 }
+
+body {
+  background-color: rgb(17, 17, 17);
+}
+
 
 h1 {
     color: rgb(224, 6, 6);
@@ -151,6 +162,7 @@ img {
   font-weight: 400;
   font-style: normal;
   font-size: larger;
+  color: black;
 
 }
 
@@ -159,6 +171,7 @@ img {
   font-weight: 400;
   font-style: normal;
   font-size: larger;
+  color: black;
 
 }
 
@@ -167,12 +180,14 @@ img {
   font-weight: 400;
   font-style: normal;
   font-size: larger;
+  color: black;
 }
  .Integrantes {
     font-family: "Pirata One", system-ui;
   font-weight: 400;
   font-style: normal;
   font-size: larger;
+  color: black;
  }
 
  .Curiosidades{
@@ -180,6 +195,7 @@ img {
   font-weight: 400;
   font-style: normal;
   font-size: larger;
+  color: black;
  }
 
  .contatos{
@@ -187,9 +203,11 @@ img {
   font-weight: 400;
   font-style: normal;
   font-size: larger;
+  color: black;
  }
 
  .slipk{
     position: fixed;
     padding: auto;
  }
+
